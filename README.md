@@ -114,8 +114,8 @@
           <b>🎙️ Noorify.pro</b>
         </a>
         <br/>
-        <a href="https://github.com/noorsmi786/noorify.pro" target="_blank" style="font-size: 12px;">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        <a href="https://github.com/noorsmi786/noorify.pro" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
         </a>
       </td>
       <td>AI Chat & Voice Receptionist SaaS with multi-provider LLM fallback, Vapi voice pipeline, and Lemon Squeezy billing.</td>
