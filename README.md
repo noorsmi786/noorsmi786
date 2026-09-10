@@ -3,7 +3,7 @@
 # Hi there, I'm Noor Rehman 👋
 ### 🚀 AI Automation Developer & Agentic Systems Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Production-Ready+AI+Agents+%26+RAG+Pipelines;WhatsApp+Automation+%26+Multi-Tenant+Bots;Voice+Agents+(Twilio+%2B+ElevenLabs+%2B+Vapi);End-to-End+n8n+Workflow+Automation;Full-Stack+SaaS+Builder+%26+Cloud+Deployments)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Production-Ready+AI+Agents+%26+RAG[...]
 
 <p align="center">
   <b>Based in Peshawar, Pakistan</b> 🇵🇰 &nbsp;|&nbsp;
@@ -109,7 +109,15 @@
       <td><code>Python</code> <code>Supabase</code> <code>PostgreSQL</code></td>
     </tr>
     <tr>
-      <td><b>🎙️ Noorify.pro</b></td>
+      <td>
+        <a href="https://noorify.pro" target="_blank">
+          <b>🎙️ Noorify.pro</b>
+        </a>
+        <br/>
+        <a href="https://github.com/noorsmi786/noorify.pro" target="_blank" style="font-size: 12px;">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
       <td>AI Chat & Voice Receptionist SaaS with multi-provider LLM fallback, Vapi voice pipeline, and Lemon Squeezy billing.</td>
       <td><code>Vapi</code> <code>Claude API</code> <code>n8n</code> <code>Docker</code></td>
     </tr>
